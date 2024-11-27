@@ -1,6 +1,6 @@
 ---
-# 🌟 Welcome to My GitHub World! 🌟  
-Hi there! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile 
+# 🌟 Welcome to My GitHub Profile! 🌟  
+Assalamualaikum! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile 
 Development experiences. 🚀  
 
 <p align="center"><img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'></p>
