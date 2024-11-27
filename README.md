@@ -1,9 +1,10 @@
 
 # 🌟 Welcome to My GitHub World! 🌟  
-Hi there! I’m **Iftekher** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile experiences. 🚀  
-<div style="display:flex; align-items:center; justify-content:center;">
-  <img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200' style="border-radius:15%;">
-</div>
+Hi there! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile 
+Development experiences. 🚀  
+
+<img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200' style='border-radius:15%;'>
+
 
 ---
 
