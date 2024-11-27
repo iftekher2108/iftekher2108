@@ -6,7 +6,11 @@ Development experiences. 🚀
 <p align="center"><img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'></p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekher2108&label=Profile%20views&color=0e75b6&style=flat" alt="iftekher2108" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekher2108" alt="iftekher2108" /></a> </p>
+
+---
 ## 🔍 **About Me**  
 💡 _"Transforming ideas into reality with clean code and stunning designs."_  
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0087D8&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Web+%26+Mobile+Developer;Open-Source+Enthusiast;Building+User-Friendly+Applications" alt="Typing SVG" /> </p>
