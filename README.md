@@ -68,7 +68,7 @@ If you have an idea or project in mind, let's bring it to life! Here's how you c
 ---
 
 ## 🎨 **Design Philosophy**  
-I believe in **blending functionality with aesthetics** – combining elegant UI design with clean, maintainable code. I work to ensure that every project has a beautiful user interface and runs smoothly under the hood.
+I believe in **blending functionality with aesthetics** – combining elegant UI design with clean and maintainable code. I work to ensure that every project has a beautiful user interface and runs smoothly under the hood.
 
 ---
 
