@@ -3,7 +3,7 @@
 Hi there! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile 
 Development experiences. 🚀  
 
-<img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'>
+<img align='center' src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'>
 
 
 ---
