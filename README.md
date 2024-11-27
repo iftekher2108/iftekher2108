@@ -15,7 +15,7 @@ I'm a developer who focuses on building responsive, scalable, and dynamic applic
 
 - **Frontend:** From building clean, responsive websites to implementing cutting-edge UI animations.
 - **Backend:** I specialize in building robust, scalable backends using **Laravel** and **MySQL**.
-- **Mobile:** I create smooth mobile apps with **Flutter** and **Kotlin**.
+- **Mobile:** I create smooth mobile apps with **Flutter** .
 
 ---
 
@@ -23,36 +23,30 @@ I'm a developer who focuses on building responsive, scalable, and dynamic applic
 
 ### 🎨 **Frontend Development**  
 - **HTML, CSS, SCSS, Bootstrap, Tailwind CSS, DaisyUI**  
-- **JavaScript, TypeScript, React, jQuery**  
-- UI Animations & Transitions with **Framer Motion**, **AOS.js**, **Particles.js**  
+- **JavaScript, React, Next js, jQuery**  
+- UI Animations & Transitions with **Framer Motion**, **AOS.js**, **Particles.js**  **and Many More**
 
 ### 🛠️ **Backend & Tools**  
-- **PHP, Laravel (v11)**  
+- **PHP, Laravel (v8,v9,v10,v11)**  
 - **MySQL, Inertia.js**  
-- **WordPress Development**  
+- **WordPress**  
 
 ### 📱 **Mobile Development**  
 - **Flutter** with **Dart**, state management with **GetX**  
-- Native Android development with **Kotlin**
 
 ### 💻 **Version Control & Development Tools**  
 - **Git**, **Git Bash**  
-- **Next.js**, **React**
 
 ---
 
-## 🚀 **Featured Projects**  
-### 🌐 **[Iftekher Portfolio](https://iftekher2108.github.io/iftekher-portfolio)**  
+## 🚀 **Featured Portfolio**  
+### 🌐 **[Iftekher Portfolio](https://iftekher-mahmud.netlify.app)**  
 A responsive, modern portfolio showcasing my best work, with a creative design.  
-- **Technologies:** HTML, CSS, SCSS, JavaScript, Typed.js, AOS.js
+- **Technologies:** HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next js, Typed.js, AOS.js and many more 
 
 ### 📱 **Offline W3Schools App**  
 An offline-capable **Flutter-based app** providing users with W3Schools tutorials and references.  
-- **Technologies:** Flutter, Kotlin
-
-### 📚 **Adora Book Website**  
-A simple 3-page website project focusing on responsive design and usability.  
-- **Technologies:** HTML, CSS, Bootstrap, JavaScript, jQuery
+- **Technologies:** Flutter
 
 ---
 
@@ -70,7 +64,7 @@ If you have an idea or project in mind, let's bring it to life! Here's how you c
 
 | **Connect with Me**         | **Links**                                                   |  
 |-----------------------------|-------------------------------------------------------------|  
-| 🌐 **Portfolio**             | [iftekher2108.github.io/iftekher-portfolio](https://iftekher2108.github.io/iftekher-portfolio) |  
+| 🌐 **Portfolio**             | [https://iftekher-mahmud.netlify.app](https://iftekher-mahmud.netlify.app) |  
 | 💼 **LinkedIn**              | [My LinkedIn Profile](#)                                    |  
 | 🐦 **Twitter**               | [My Twitter Profile](#)                                     |  
 | 📬 **Email**                 | [email@example.com](mailto:email@example.com)               |  
