@@ -2,7 +2,7 @@
 # 🌟 Welcome to My GitHub World! 🌟  
 Hi there! I’m **Iftekher** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile experiences. 🚀  
 
-![Profile Banner](https://placehold.co/900x300?text=Welcome+to+My+World&font=roboto)  
+![Profile Banner](https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75)  
 *(You can replace the banner with a personalized image or design)*  
 
 ---
