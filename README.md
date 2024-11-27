@@ -64,10 +64,10 @@ If you have an idea or project in mind, let's bring it to life! Here's how you c
 | **Connect with Me**         | **Links**                                                   |  
 |-----------------------------|-------------------------------------------------------------|  
 | 🌐 **Portfolio**             | [https://iftekher-mahmud.netlify.app](https://iftekher-mahmud.netlify.app) |  
-| 💼 **LinkedIn**              | [My LinkedIn Profile](https://www.linkedin.com/in/iftekhermahmud1/)                                    |  
-| 🐦 **Twitter**               | [My Twitter Profile](https://x.com/iftekher2108)                                     |  
+| 💼 **LinkedIn**              | [LinkedIn/Iftekher Mahmud](https://www.linkedin.com/in/iftekhermahmud1/)                                    |  
+| 🐦 **Twitter**               | [Twitter/Iftekher Mahmud](https://x.com/iftekher2108)                                     |  
 | 📬 **Email**                 | [iftekhermahmud1@gmail.com](mailto:iftekhermahmud1@gmail.com)               |  
-| 🎴 **Facebook**                 | [My Facebook Profile](https://www.facebook.com/mdiftekher.mahmud)               |  
+| 🎴 **Facebook**                 | [Facebook/Iftekher Mahmud](https://www.facebook.com/mdiftekher.mahmud)               |  
 
 ---
 
@@ -84,6 +84,7 @@ I’m constantly exploring new technologies and trends in web and mobile develop
 ---
 
 ## 🔗 **Badges & Achievements**  
+![Html](https://img.shields.io/badge/Html-ff2d20?style=flat&logo=laravel&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
