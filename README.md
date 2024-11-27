@@ -1,22 +1,21 @@
-
+---
 # 🌟 Welcome to My GitHub World! 🌟  
 Hi there! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile 
 Development experiences. 🚀  
 
 <p align="center"><img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'></p>
 
-
 ---
 
 ## 🔍 **About Me**  
 💡 _"Transforming ideas into reality with clean code and stunning designs."_  
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0087D8&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Web+%26+Mobile+Developer;Open-Source+Enthusiast;Building+User-Friendly+Applications" alt="Typing SVG" /> </p>
-I'm a developer who focuses on building responsive, scalable, and dynamic applications. I believe in combining **design-first development** with **code efficiency** to create seamless user experiences. Here's a bit more about what I do:
-
+I'm a developer who focuses on building responsive, scalable, and dynamic applications. I believe in combining **design-first development** with **code efficiency** to create seamless user experiences.
+---
+Here's a bit more about what I do:
 - **Frontend:** From building clean, responsive websites to implementing cutting-edge UI animations.
 - **Backend:** I specialize in building robust, scalable backends using **Laravel** and **MySQL**.
 - **Mobile:** I create smooth mobile apps with **Flutter** .
-
 ---
 
 ## ⚙️ **Skills & Expertise**  
