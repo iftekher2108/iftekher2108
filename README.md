@@ -26,8 +26,8 @@ Here's a bit more about what I do:
 - UI Animations & Transitions with **Framer Motion**, **AOS.js**, **Particles.js**  **and Many More**
 
 ### 🛠️ **Backend & Tools**  
-- **PHP, Laravel (v8,v9,v10,v11)**  
-- **MySQL, Inertia.js**  
+- **PHP, Laravel**  
+- **MySQL**  
 - **WordPress**  
 
 ### 📱 **Mobile Development**  
@@ -42,10 +42,6 @@ Here's a bit more about what I do:
 ### 🌐 **[Iftekher Portfolio](https://iftekher-mahmud.netlify.app)**  
 A responsive, modern portfolio showcasing my best work, with a creative design.  
 - **Technologies:** HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next js, Typed.js, AOS.js and many more 
-
-### 📱 **Offline W3Schools App**  
-An offline-capable **Flutter-based app** providing users with W3Schools tutorials and references.  
-- **Technologies:** Flutter
 
 ---
 
@@ -77,7 +73,9 @@ I believe in **blending functionality with aesthetics** – combining elegant UI
 ---
 
 ## 🚀 **Fun Fact**  
-I’m constantly exploring new technologies and trends in web and mobile development. When I’m not coding, you can find me learning about **AI**, contributing to **open-source** projects, or working on creative designs.  
+I’m constantly exploring new technologies and trends in web and mobile development. When I’m not coding, you can find me learning about **New Technology**, contributing to **open-source** projects, or working on creative designs.  
+
+---
 
 ✨ _“Code smart, dream big, and innovate boldly.”_  
 
