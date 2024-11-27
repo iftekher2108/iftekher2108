@@ -2,7 +2,7 @@
 # 🌟 Welcome to My GitHub World! 🌟  
 Hi there! I’m **Iftekher** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile experiences. 🚀  
 
-![Profile Banner](https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75) { height: 200px; width: 800px; border-radius: 10px; }  
+![Profile Banner](https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75) { height: 200px; width: 800px; border-radius: 10px; }   ``` 
 *(You can replace the banner with a personalized image or design)*  
 
 ---
