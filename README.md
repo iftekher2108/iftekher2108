@@ -1,6 +1,6 @@
 ---
 # 🌟 Welcome to My GitHub Profile! 🌟  
-Assalamualaikum! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web and mobile 
+Assalamualaikum! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web App
 Development experiences. 🚀  
 
 <p align="center"><img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'></p>
@@ -19,7 +19,6 @@ I'm a developer who focuses on building responsive, scalable, and dynamic applic
 Here's a bit more about what I do:
 - **Frontend:** From building clean, responsive websites to implementing cutting-edge UI animations.
 - **Backend:** I specialize in building robust, scalable backends using **Laravel** and **MySQL**.
-- **Mobile:** I create smooth mobile apps with **Flutter** .
 ---
 
 ## ⚙️ **Skills & Expertise**  
@@ -30,12 +29,10 @@ Here's a bit more about what I do:
 - UI Animations & Transitions with **Framer Motion**, **AOS.js**, **Particles.js**  **and Many More**
 
 ### 🛠️ **Backend & Tools**  
-- **PHP, Laravel**  
+- **PHP, Laravel(Modular)**
+- **NodeJS**    
 - **MySQL**  
 - **WordPress**  
-
-### 📱 **Mobile Development**  
-- **Flutter** with **Dart**, state management with **GetX**  
 
 ### 💻 **Version Control & Development Tools**  
 - **Git**, **Git Bash**  
@@ -87,7 +84,6 @@ I’m constantly exploring new technologies and trends in web and mobile develop
 
 ## 🔗 **Badges & Achievements**  
 ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
