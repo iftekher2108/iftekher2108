@@ -93,8 +93,11 @@ I’m constantly exploring new technologies and trends in web and mobile develop
 ---
 
 ## 📄 **Certifications & Learning**  
-- **Certified Laravel Developer**  
-- **Flutter Developer Bootcamp**  
+- **Certified PHP Developer**  
+- **Certified Laravel Developer**   
 - **JavaScript Developer**
+- **Node JS Developer**
+- **Flutter Developer Bootcamp**
+- **Python Developer Instructor** 
 
 ---
