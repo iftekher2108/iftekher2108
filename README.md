@@ -4,7 +4,7 @@ Assalamualaikum! I’m **Iftekher Mahmud** – a passionate **Software Engineer*
 Development experiences. 🚀  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/iftekher2108/iftekher2108/refs/heads/main/Professional%20Circular%20Office%20Portrait.png" alt="Profile Avatar" height='200' width='200'>
+<img src="https://raw.githubusercontent.com/iftekher2108/iftekher2108/refs/heads/main/iftekher.png" alt="Profile Avatar" height='200' width='200'>
 </p>
 
 ---
