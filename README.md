@@ -205,10 +205,14 @@ My personal portfolio showcasing my professional profile, skills, development jo
 
 ---
 
-## 🏆 GitHub Achievements
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftekher2108&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://trophy.ryglcloud.net/?username=iftekher2108&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
 </p>
 
 ---
