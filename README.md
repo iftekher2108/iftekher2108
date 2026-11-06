@@ -3,12 +3,18 @@
 Assalamualaikum! I’m **Iftekher Mahmud** – a passionate **Software Engineer** dedicated to crafting exceptional web App
 Development experiences. 🚀  
 
-<p align="center"><img src="https://iftekher-mahmud.netlify.app/_next/image?url=%2Fimage%2Fbanner.jpg&w=640&q=75" alt="Profile Avatar" height='200' width='200'></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/iftekher2108/iftekher2108/refs/heads/main/Professional%20Circular%20Office%20Portrait.png" alt="Profile Avatar" height='200' width='200'>
+</p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekher2108&label=Profile%20views&color=0e75b6&style=flat" alt="iftekher2108" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=iftekher2108&label=Profile%20views&color=0e75b6&style=flat" alt="iftekher2108" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekher2108" alt="iftekher2108" /></a> </p>
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekher2108" alt="iftekher2108" /></a> 
+</p>
 
 ---
 ## 🔍 **About Me**  
@@ -19,6 +25,7 @@ I'm a developer who focuses on building responsive, scalable, and dynamic applic
 Here's a bit more about what I do:
 - **Frontend:** From building clean, responsive websites to implementing cutting-edge UI animations.
 - **Backend:** I specialize in building robust, scalable backends using **Laravel** and **MySQL**.
+- **App Development:** I specialize in building cross platform Application using **Expo** - **React Native**.
 ---
 
 ## ⚙️ **Skills & Expertise**  
@@ -26,45 +33,48 @@ Here's a bit more about what I do:
 ### 🎨 **Frontend Development**  
 - **HTML, CSS, SCSS, Bootstrap, Tailwind CSS, DaisyUI**  
 - **JavaScript, React, Next js, jQuery**  
-- UI Animations & Transitions with **Framer Motion**, **AOS.js**, **Particles.js**  **and Many More**
+- App Development with **Expo**, **React Native**, **Expo/UI**  **and Many More**
 
 ### 🛠️ **Backend & Tools**  
 - **PHP, Laravel(Modular)**
-- **NodeJS**    
+- **React**    
 - **MySQL**  
 - **WordPress**  
 
 ### 💻 **Version Control & Development Tools**  
-- **Git**, **Git Bash**  
+- **Github**, **Git Bash**  
 
 ---
 
-## 🚀 **Featured Portfolio**  
-### 🌐 **[Iftekher Portfolio](https://iftekher-mahmud.netlify.app)**  
-A responsive, modern portfolio showcasing my best work, with a creative design.  
-- **Technologies:** HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next js, Typed.js, AOS.js and many more 
+## 🚀 **My Portfolio**  
+### 🌐 **[Iftekher Mahmud](https://iftekher-mahmud.vercel.app)**  
+A responsive, modern Technology used portfolio showcasing my work, with creative design.  
+- **Technologies:** HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next js, and many more 
 
 ---
 
 ## 📊 **GitHub Stats**  
 Here’s a glance at my GitHub activity and skills:  
 
-| **Metric**                 | **Stats**                                                   |  
-|----------------------------|-------------------------------------------------------------|  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftekher2108&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekher2108&layout=compact&theme=radical) |  
 
----
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=iftekher2108&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iftekher2108&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
 
 ## 💼 **Let's Work Together**  
 If you have an idea or project in mind, let's bring it to life! Here's how you can reach me:  
 
 | **Connect with Me**         | **Links**                                                   |  
 |-----------------------------|-------------------------------------------------------------|  
-| 🌐 **Portfolio**             | [https://iftekher-mahmud.netlify.app](https://iftekher-mahmud.netlify.app) |  
-| 💼 **LinkedIn**              | [LinkedIn/Iftekher Mahmud](https://www.linkedin.com/in/iftekhermahmud1/)                                    |  
-| 🐦 **Twitter**               | [Twitter/Iftekher Mahmud](https://x.com/iftekher2108)                                     |  
-| 📬 **Email**                 | [iftekhermahmud1@gmail.com](mailto:iftekhermahmud1@gmail.com)               |  
-| 🎴 **Facebook**                 | [Facebook/Iftekher Mahmud](https://www.facebook.com/mdiftekher.mahmud)               |  
+| 🌐 **Portfolio**             | [https://iftekher-mahmud.netlify.app](https://iftekher-mahmud.vercel.app) |  
+| 💼 **LinkedIn**              | [LinkedIn/Iftekher Mahmud](https://www.linkedin.com/in/iftekhermahmud1/)  |  
+| 🐦 **Twitter**               | [Twitter/Iftekher Mahmud](https://x.com/iftekher2108)                     |  
+| 📬 **Email**                 | [iftekhermahmud1@gmail.com](mailto:iftekhermahmud1@gmail.com)             |  
+| 🎴 **Facebook**                 | [Facebook/Iftekher Mahmud](https://www.facebook.com/mdiftekher.mahmud)  |  
 
 ---
 
@@ -97,7 +107,7 @@ I’m constantly exploring new technologies and trends in web and mobile develop
 - **Certified Laravel Developer**   
 - **JavaScript Developer**
 - **Node JS Developer**
-- **Flutter Developer Bootcamp**
+- **React Native Developer**
 - **Python Developer Instructor** 
 
 ---
